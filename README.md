@@ -7,7 +7,7 @@
 * ✔️ HTML
 * ✔️ CSS
 
-  ## 📌 Integrantes
+## 📌 Integrantes
 
   * Diego Magno Lopes Martins
   * Jefferson Henrique Machado
