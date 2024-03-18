@@ -6,3 +6,9 @@
 
 * ✔️ HTML
 * ✔️ CSS
+
+  ## Integrantes
+
+  * Diego Magno Lopes Martins
+  * Jefferson Henrique Machado
+  * João Vitor Oliveira da Silva
