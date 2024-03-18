@@ -1,0 +1,30 @@
+body {
+    background-color: #30303e;
+}
+h1 {
+        color: #ffff; 
+        font-size: 26px;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+}
+
+h2 {
+    color: #ffff; 
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+      
+p {
+        color: #f3f3f3; 
+        font-size: 18px; 
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: justify;
+}
+ol {
+    color: #f3f3f3; 
+    font-size: 18px; 
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+
